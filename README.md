@@ -20,7 +20,7 @@ Fornecer um ambiente de formação técnica em realidade virtual, acessível e i
 - Shaders personalizados para acessibilidade
 
 ## 📽️ Vídeo demonstrativo
-[https://youtu.be/1LROZp0pM80]
+https://youtu.be/1LROZp0pM80
 
 ## 🧪 Como correr o projeto
 1. Abrir com **Unity versão 6** com suporte XR.
